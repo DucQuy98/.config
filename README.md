@@ -1,2 +1,2 @@
-# .vim
+# .config
 File config neoVim
